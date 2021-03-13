@@ -1,2 +1,2 @@
-`currently on: sea (qd standard psets)`\
+`currently on: sea`\
 `will be on: somethin' elephpant related`
