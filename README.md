@@ -34,7 +34,7 @@ same as `07:02` but w/ charset*
 *Day02:07\
 seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
 
-*Eight queens problem from `Day04:07-08`\
+*Eight queens problem from `04:07-08`\
 can use a sudoku solver. I just need time.* 
 
 *Day05:20\
