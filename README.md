@@ -29,7 +29,7 @@ The problems I'm stuck on
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 ```
 *Day07:07\
-~~same as `07:02` but w/ charset~~ solved*
+~~same as 07:02 but w/ charset~~ solved*
 
 *Day02:07\
 seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
