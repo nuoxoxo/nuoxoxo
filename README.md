@@ -21,13 +21,13 @@ The problems I'm stuck on\
 `Day07:04 "split_by_whitespaces"`
 
 *Day07:04\
-has a solution, with main.
+has a solution, but how to test it?*
 
 *Day02:07\
-seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.
+seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
 
 *Eight queens problem from `Day04:07-08`\
-can use a sudoku solver. I just need time. 
+can use a sudoku solver. I just need time.* 
 
 ^Day05:20\
-equires knowledge on hex. 
+equires knowledge on hex.*
