@@ -1,2 +1,2 @@
-<img src="https://raw.githubusercontent.com/nuoxoxo/nature/main/_img/ve.gif" width="120">\
-`currently doing: sea`
+<img src="https://raw.githubusercontent.com/malcolmnuoxu/nature/main/_img/jonathan.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/nature/main/_img/walk.png" width="120">|<img src="https://raw.githubusercontent.com/malcolmnuoxu/nature/main/_img/ball.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/nature/main/_img/ve.gif" width="120">
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
