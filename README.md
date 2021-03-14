@@ -23,6 +23,11 @@ The problems I'm stuck on
 *Day07:04\
 ~~has a solution, but how to test it?~~ solved*
 
+*crucial line* 
+```c
+arr = (char **)malloc(sizeof(char *) * wordcount + 1);
+```
+
 *Day02:07\
 seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
 
