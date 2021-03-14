@@ -21,7 +21,7 @@ The problems I'm stuck on
 - [x] `Day07:04 "split_by_whitespaces"`
 
 *Day07:04\
-~~has a solution, but how to test it?~~ solved*
+solved ~~has a solution, but how to test it?~~*
 
 *Day02:07\
 seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
