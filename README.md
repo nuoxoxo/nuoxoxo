@@ -24,7 +24,7 @@ The problems I'm stuck on
 *Day07:04\
 ~~has a solution, but how can i test it?~~ solved*
 
-*crucial line*
+*crucial line: explicit cast at the beginning and in the middle*
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 ```
