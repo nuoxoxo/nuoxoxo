@@ -12,7 +12,7 @@
 
 關於 Sea: 
 
-**Sea** is my attempt to go over the quarantedeux routines. It turns out harder than I thought. 
+**Sea** is my attempt to go over all the quarantedeux routines. It turns out harder than I thought. 
 
 The problems I'm stuck on
 - [ ] `Day02:07 "print_combn"`
