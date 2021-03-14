@@ -15,13 +15,13 @@
 Sea is my attempt to go over the quarantedeux routines. It turns out harder than I thought. 
 
 The problems I'm stuck on\
-`Day02:07 "print_combn"`\
-`Day04:07-08 "eight_queens"`\
-`Day05:20 "putnum_base"`\
-`Day07:04 "split_by_whitespaces"`
+- [] `Day02:07 "print_combn"`\
+- [] `Day04:07-08 "eight_queens"`\
+- [] `Day05:20 "putnum_base"`\
+- [x] `Day07:04 "split_by_whitespaces"`
 
 *Day07:04\
-has a solution, but how to test it?*
+~~has a solution, but how to test it?~~ solved*
 
 *Day02:07\
 seems to have no valid solution online. The no.1 answer on Google looks good but it's incorrect. From the second result on nothing seems remotely legit.*
