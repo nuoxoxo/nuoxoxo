@@ -29,5 +29,5 @@ seems to have no valid solution online. The no.1 answer on Google looks good but
 *Eight queens problem from `Day04:07-08`\
 can use a sudoku solver. I just need time.* 
 
-^Day05:20\
+*Day05:20\
 equires knowledge on hex.*
