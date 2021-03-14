@@ -22,8 +22,9 @@ The problems I'm stuck on
 - [ ] `Day07:07 "split"`
 
 *Day07:04\
-~~has a solution, but how to test it?~~ solved*\
-*crucial line* 
+~~has a solution, but how to test it?~~ solved*
+
+*crucial line*
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 ```
