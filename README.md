@@ -19,10 +19,10 @@ The problems I'm stuck on
 - [ ] `Day04:07-08 "eight_queens"`
 - [ ] `Day05:20 "putnum_base"`
 - [x] `Day07:04 "split_by_whitespaces"`
+- [ ] `Day07:07 "split"`
 
 *Day07:04\
-~~has a solution, but how to test it?~~ solved*
-
+~~has a solution, but how to test it?~~ solved*\
 *crucial line* 
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
