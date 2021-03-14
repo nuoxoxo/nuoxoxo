@@ -10,14 +10,14 @@
 
 `Log Mar 14`
 
-關於 Sea
+關於 Sea: 
 
-Sea is my attempt to go over the quarantedeux routines. It turns out harder than I thought. 
+**Sea** is my attempt to go over the quarantedeux routines. It turns out harder than I thought. 
 
-The problems I'm stuck on\
-- [ ] `Day02:07 "print_combn"`\
-- [ ] `Day04:07-08 "eight_queens"`\
-- [ ] `Day05:20 "putnum_base"`\
+The problems I'm stuck on
+- [ ] `Day02:07 "print_combn"`
+- [ ] `Day04:07-08 "eight_queens"`
+- [ ] `Day05:20 "putnum_base"`
 - [x] `Day07:04 "split_by_whitespaces"`
 
 *Day07:04\
