@@ -22,7 +22,7 @@ The problems I'm stuck on
 - [ ] `Day07:07 "split"`
 
 *Day07:04\
-~~has a solution, but how to test it?~~ solved*
+~~has a solution, but how can i test it?~~ solved*
 
 *crucial line*
 ```c
