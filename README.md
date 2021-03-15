@@ -8,11 +8,11 @@
 
 ##
 
-`Log Mar 14`
+`Log Mar 15`
 
 關於 Sea: 
 
-**Sea** is my attempt to go over all the quarantedeux routines. It turns out harder than I thought. 
+**Sea** is my attempt to go over the quarantedeux routines.
 
 The problems I'm stuck on
 - [ ] `Day02:07 "print_combn"`
