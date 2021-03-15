@@ -15,15 +15,15 @@
 **Sea** is an attempt to go over the quarantedeux routine.
 ##
 
-Pending
+##### Pending problems
 - [ ] `Day02:07 "print_combn"`
 - [ ] `Day04:07-08 "eight_queens"`
 - [x] `Day05:20 "putnum_base"`
 - [x] `Day07:04 "split_by_whitespaces"`
 - [x] `Day07:07 "split"`
 
-*Day07:04\
-~~has a solution, but how can i test it?~~*
+##### Day07:04\
+*~~has a solution, but how can i test it?~~*
 *crucial line: explicit casts at the beginning and in the middle*
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
