@@ -18,7 +18,7 @@
 The problems I'm stuck on
 - [ ] `Day02:07 "print_combn"`
 - [ ] `Day04:07-08 "eight_queens"`
-- [ ] `Day05:20 "putnum_base"`
+- [x] `Day05:20 "putnum_base"`
 - [x] `Day07:04 "split_by_whitespaces"`
 - [x] `Day07:07 "split"`
 
@@ -37,4 +37,4 @@ seems to have no valid solution online. The no.1 answer on Google looks good but
 can use a sudoku solver. I just need time.* 
 
 *Day05:20\
-equires knowledge on hex.*
+~~incomprehensible~~ solved*
