@@ -12,7 +12,7 @@
 
 關於 Sea: 
 
-**Sea** is my attempt to go over the quarantedeux routines.
+**Sea** is an attempt to go over the quarantedeux routine.
 
 The problems I'm stuck on
 - [ ] `Day02:07 "print_combn"`
