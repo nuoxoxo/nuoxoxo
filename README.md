@@ -15,7 +15,7 @@
 **Sea** is an attempt to go over the quarantedeux routine.
 ##
 
-The problems I'm stuck on
+Pending
 - [ ] `Day02:07 "print_combn"`
 - [ ] `Day04:07-08 "eight_queens"`
 - [x] `Day05:20 "putnum_base"`
