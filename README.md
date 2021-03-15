@@ -3,7 +3,7 @@
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 -->
 
-<img src="https://raw.githubusercontent.com/malcolmnuoxu/nature/noc/_img/jonathan.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/main/_img/ve.gif" width="120">|<img src="https://raw.githubusercontent.com/malcolmnuoxu/noc/main/_img/ball.gif" width="120">
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/jonathan.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/ve.gif" width="120">|<img  src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/ball.gif" width="120">
 :-------------------------:|:-------------------------:|:-------------------------:|
 
 ##
