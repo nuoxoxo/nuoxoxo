@@ -23,8 +23,7 @@ The problems I'm stuck on
 - [x] `Day07:07 "split"`
 
 *Day07:04\
-~~has a solution, but how can i test it?~~ solved*
-
+~~has a solution, but how can i test it?~~*
 *crucial line: explicit casts at the beginning and in the middle*
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
