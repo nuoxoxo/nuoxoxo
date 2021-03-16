@@ -35,7 +35,7 @@ arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 seems to have no valid solution online. 
 
 *Eight queens problem from `04:07-08`\
-can use a sudoku solver. * 
+can use a sudoku solver.* 
 
 *Day05:20\
 ~~incomprehensible~~ solved*
