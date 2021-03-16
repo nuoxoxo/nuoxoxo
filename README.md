@@ -32,7 +32,7 @@ arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 ```
 
 *Day02:07\
-seems to have no valid solution online. 
+seems to have no valid solution online.*
 
 *Eight queens problem from `04:07-08`\
 can use a sudoku solver.* 
