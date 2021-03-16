@@ -12,7 +12,7 @@
 
 關於 Sea: 
 
-**Sea** is an attempt to go over the quarantedeux routine.
+**Sea** is my attempt to go over the quarantedeux routine.
 ##
 
 ##### Pending problems
