@@ -24,9 +24,7 @@
 
 ##
 
-*Day07:04
-~~has a solution, but how can i test it?~~*
-*crucial line: explicit casts at the beginning and in the middle*
+*Day07:04 solved. crucial line:*
 ```c
 arr = (char **)malloc(sizeof(char *) * wordcount + 1);
 ```
@@ -37,5 +35,4 @@ seems to have no valid solution online.*
 *Eight queens problem from `04:07-08`\
 can use a sudoku solver.* 
 
-*Day05:20\
-~~incomprehensible~~ solved*
+*Day05:20 solved.*
