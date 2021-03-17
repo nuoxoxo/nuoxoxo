@@ -3,9 +3,9 @@
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 -->
 
-<span align="center"><img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/jonathan.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="120">|<img  src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/ball.gif" width="120">
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/jonathan.gif" width="120">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="120">|<img  src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/ball.gif" width="120">
 :-------------------------:|:-------------------------:|:-------------------------:|
-</span>
+
 ##
 
 `Log Mar 15`
