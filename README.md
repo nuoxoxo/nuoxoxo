@@ -13,7 +13,6 @@
 關於 Sea: 
 
 **Sea** is my attempt to go over the quarantedeux routine.
-##
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
