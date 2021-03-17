@@ -8,11 +8,7 @@
 
 ##
 
-`Log Mar 15`
-
-關於 Sea: 
-
-**Sea** is my attempt to go over the quarantedeux routine.
+`Log Mar 18`
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
