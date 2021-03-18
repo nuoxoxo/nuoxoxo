@@ -10,6 +10,8 @@
 
 `Log Mar 18`
 
+- [ ] `rebuild a home that isn't there`
+
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
 - [ ] `Day04:07-08 "eight_queens"`
