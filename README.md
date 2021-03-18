@@ -10,7 +10,7 @@
 
 `Log Mar 18`
 
-- [ ] `rebuild a home that isn't there`
+- [ ] `rebuild a home that isn't there, with minimal html and css`
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
