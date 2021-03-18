@@ -11,7 +11,7 @@
 `Log Mar 18`
 
 - [ ] `back to the handy haversacks problem - 20day07`
-- [ ] `rebuild homepage w/ minimal css
+- [ ] `rebuild homepage w/ minimal css`
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
