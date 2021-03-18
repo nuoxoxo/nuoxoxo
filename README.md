@@ -10,7 +10,8 @@
 
 `Log Mar 18`
 
-- [ ] `rebuild a home that isn't there, with ul and minimal css`
+- [ ] `back to the handy haversacks problem - 20day07`
+- [ ] `rebuild homepage w/ minimal css
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
