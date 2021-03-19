@@ -7,7 +7,7 @@
 :-------------------------:|:-------------------------:|:-------------------------:|
 
 ##
-`learning flask`
+`run flask`
 ```
 get get-pip.py
 sudo python3 get-pip.py
