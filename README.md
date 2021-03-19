@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="240">|<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" height="240">
+:-------------------------:|:-------------------------:
+
 ##
 `run flask`
 ```
@@ -22,9 +25,6 @@ flask run
 - [ ] `2Oday11`
 - [ ] `19day05`
 - [x] `rebuild homepage w/ minimal css`
-
-<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="240">|<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" height="240">
-:-------------------------:|:-------------------------:
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
