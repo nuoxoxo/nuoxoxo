@@ -24,7 +24,9 @@ flask run
 `Log Mar 18`
 
 - [ ] `trying 20day07`
-- [ ] `rebuild homepage w/ minimal css`
+- [x] `rebuild homepage w/ minimal css`
+
+<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" width="360">
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
