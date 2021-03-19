@@ -29,7 +29,7 @@ flask run
 - [ ] `trying 20day07`
 - [x] `rebuild homepage w/ minimal css`
 
-<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.jpg" width="360">
+<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" width="360">
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
