@@ -27,7 +27,8 @@ flask run
 `Log Mar 18`
 
 - [ ] ~~`trying 20day07`~~
-- [ ] `try 2Oday11`
+- [ ] `2Oday11`
+- [ ] `19day05`
 - [x] `rebuild homepage w/ minimal css`
 
 <img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" width="360">
