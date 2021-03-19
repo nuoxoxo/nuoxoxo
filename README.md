@@ -9,7 +9,7 @@
 ##
 `run flask`
 ```
-get get-pip.py
+<<< get get-pip.py >>>
 sudo python3 get-pip.py
 pip install --upgrade pip
 
@@ -18,6 +18,9 @@ cd test/
 python3 -m venv venv
 . venv/bin/activate
 pip install Flask
+```
+```
+. venv/bin/activate
 flask run
 ```
 
@@ -31,6 +34,3 @@ flask run
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
 - [ ] `Day04:07-08 "eight_queens"`
-- [x] `Day05:20 "putnum_base"`
-- [x] `Day07:04 "split_by_whitespaces"`
-- [x] `Day07:07 "split"`
