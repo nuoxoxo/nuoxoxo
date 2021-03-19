@@ -21,10 +21,10 @@ flask run
 
 `Log Mar 18`
 
-- [ ] ~~`trying 20day07`~~
 - [ ] `2Oday11`
 - [ ] `19day05`
 - [x] `rebuild homepage w/ minimal css`
+- [ ] ~~`trying 20day07`~~
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
