@@ -25,10 +25,9 @@ flask run
 
 - [ ] `2Oday11`
 - [ ] `19day05 -->> cf. 02`
-- [x] `rewrite homepage w/ minimal css`
 - [ ] ~~`trying 20day07`~~
-
-- [ ] `rewrite homepage -co -fl w/ flask`
+- [x] `rewrite homepage w/ minimal css`
+- [ ] `rewrite homepage count and flip w/ flask`
 
 ##### Pending problems
 - [ ] `Day02:07 "print_combn"`
