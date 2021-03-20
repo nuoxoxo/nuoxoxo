@@ -22,7 +22,7 @@ flask run
 `Log Mar 18`
 
 - [ ] `2Oday11`
-- [ ] `19day05`
+- [ ] `19day05 -->> cf. 02`
 - [x] `rebuild homepage w/ minimal css`
 - [ ] ~~`trying 20day07`~~
 
