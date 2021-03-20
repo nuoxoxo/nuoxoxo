@@ -16,7 +16,7 @@ python3 -m venv venv
 pip install Flask
 ```
 ```
-<<< install for every new venv folder >>>
+<<< pip install for new >>>
 . venv/bin/activate
 flask run
 ```
