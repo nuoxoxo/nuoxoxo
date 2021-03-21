@@ -21,14 +21,10 @@ pip install Flask
 flask run
 ```
 ##
-`Log Mar 18`
+`Pending`
 
 - [ ] `2Oday11`
 - [ ] `19day05 -->> cf. 02`
 - [ ] ~~`trying 20day07`~~
 - [x] `rewrite homepage w/ minimal css`
 - [ ] `rewrite homepage count and flip w/ flask`
-
-##### Pending problems
-- [ ] `Day02:07 "print_combn"`
-- [ ] `Day04:07-08 "eight_queens"`
