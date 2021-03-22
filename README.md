@@ -23,7 +23,7 @@ flask run
 ##
 `Pending`
 
-- [ ] `2Oday11`
+- [x] `2Oday11`
 - [ ] `19day05 -->> cf. 02`
 - [ ] ~~`trying 20day07`~~
 - [x] `rewrite homepage w/ minimal css`
