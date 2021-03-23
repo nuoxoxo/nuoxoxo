@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="240">|<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" height="240">
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif?raw=true" width="240">|<img src="" height="240">
 :-------------------------:|:-------------------------:
 
 ##
