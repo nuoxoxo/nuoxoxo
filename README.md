@@ -11,7 +11,6 @@
   - [ ] index
   - [ ] sell
   - [ ] history
-- [ ] `Pset 09`
 - [x] `2Oday11`
 - [ ] `19day05 -->> cf. 02`
 - [ ] ~~`trying 20day07`~~
