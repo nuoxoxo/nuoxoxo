@@ -1,5 +1,8 @@
-<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif" width="230">|<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" height="230">
-:-------------------------:|:-------------------------:
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/pi_neon.gif" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/nuoxoxo/main/Image.JPG" height="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/sun.png" height="256">
+:-:|:-:|:-:
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/eye.png" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/stethoscope.png" height="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/map.png" height="256">
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/stairs.png" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/bulb.png" height="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/mushroom.png" height="256">
+<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/tv.png" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/cat.png" height="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/loadquickdrawdatasetpreview/face.png" height="256">
 
 ##
 `Pending`
