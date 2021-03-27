@@ -4,8 +4,9 @@
 ##
 `Pending`
 
-- [x] quote -> register
-- [ ] quote -> show quote 
+- [ ] quote
+  - [x] register
+  - [ ] show quote 
 - [ ] `Pset 09`
 - [x] `2Oday11`
 - [ ] `19day05 -->> cf. 02`
