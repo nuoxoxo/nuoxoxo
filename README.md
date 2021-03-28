@@ -2,7 +2,6 @@
 :-:|:-:
 
 ##
-`Pending`
 
 - [ ] quote
   - [x] register
