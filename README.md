@@ -5,16 +5,13 @@
 
 - [ ] quote
   - [x] register
+  - [x] login
   - [ ] show quote 
-  - [ ] buy
   - [ ] index
-  - [ ] sell
   - [ ] history
-- [x] `2Oday11`
-- [ ] `19day05 -->> cf. 02`
-- [ ] ~~`trying 20day07`~~
-- [x] `rewrite homepage w/ minimal css`
-- [ ] `rewrite homepage count and flip w/ flask`
+  - [ ] logout
+  - [ ] buy
+  - [ ] sell
 
 ##
 
