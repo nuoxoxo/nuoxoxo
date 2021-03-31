@@ -8,9 +8,9 @@
   - [x] login
   - [x] show quote 
   - [ ] index
-  - [ ] history 
-        `solved::``exception raised in application: RuntimeError: no such table: history`
-        `newpbm::``expected to find "112.00" in page, but it wasn't found`
+  - [ ] history\
+        `solved::``exception raised in application: RuntimeError: no such table: history`\
+        `newpbm::``expected to find "112.00" in page, but it wasn't found`\
         `try solution``update quote.html`
   - [ ] buy
   - [ ] sell
