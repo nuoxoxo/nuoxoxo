@@ -11,7 +11,7 @@
   - [ ] history\
         `solved:` `exception raised in application: RuntimeError: no such table: history`\
         `new prob:` `expected to find "112.00" in page, but it wasn't found`\
-        `try solution:` `update quote.html`
+        `solution:` `update index.html and index route`
   - [ ] buy
   - [ ] sell
 
