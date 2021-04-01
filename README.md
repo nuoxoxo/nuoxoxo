@@ -9,6 +9,14 @@
         `solution:` `update index.html and index route`
   - [ ] buy
   - [ ] sell
+- [ ] pages
+  - [ ] register
+  - [ ] login
+  - [ ] index
+  - [ ] quote
+  - [ ] buy
+  - [ ] sell
+  - [ ] history
 
 ##
 
