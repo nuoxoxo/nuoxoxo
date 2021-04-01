@@ -11,9 +11,9 @@
 - [ ] pages
   - [x] register
   - [x] login
-  - [ ] index
-  - [ ] quote
-  - [ ] buy
+  - [x] index
+  - [x] quote
+  - [x] buy
   - [x] sell
   - [x] history
 
