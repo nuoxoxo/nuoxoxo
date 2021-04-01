@@ -1,20 +1,4 @@
-Quote: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
-
-`official order`
-- [x] sql
-- [ ] register
-  - [ ] register.html
-- [ ] quote
-  - [ ] quote.html 
-  - [ ] quoted.html
-- [ ] buy
-  - [ ] buy.html
-- [ ] index
-  - [ ] index.html
-- [ ] sell
-  - [ ] sell.html
-- [ ] history
-  - [ ] history.html
+Current asgmt: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
 
 ##
 
