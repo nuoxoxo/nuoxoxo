@@ -14,7 +14,7 @@
   - [ ] index
   - [ ] quote
   - [ ] buy
-  - [ ] sell
+  - [x] sell
   - [ ] history
 
 ##
