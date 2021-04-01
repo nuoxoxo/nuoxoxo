@@ -5,16 +5,16 @@
 ##
 
 - [ ] login
-- [ ] login.html
+  - [ ] login.html
 - [ ] register
-- [ ] register.html
+  - [ ] register.html
 - [ ] quote
-- [ ] quote.html 
+  - [ ] quote.html 
 - [ ] buy
-- [ ] buy.html
+  - [ ] buy.html
 - [ ] index
-- [ ] index.html
+  - [ ] index.html
 - [ ] sell
-- [ ] sell.html
+  - [ ] sell.html
 - [ ] history
-- [ ] history.html
+  - [ ] history.html
