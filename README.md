@@ -1,5 +1,6 @@
 Quote: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
 
+`official order`
 - [x] sql
 - [ ] register
   - [ ] register.html
