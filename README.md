@@ -9,8 +9,8 @@
   - [ ] buy
   - [ ] sell
 - [ ] pages
-  - [ ] register
-  - [ ] login
+  - [x] register
+  - [x] login
   - [ ] index
   - [ ] quote
   - [ ] buy
