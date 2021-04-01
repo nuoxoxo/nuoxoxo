@@ -1,4 +1,4 @@
-Current asgmt: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
+Current asgmt: [CS50 #9](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
 
 ##
 
