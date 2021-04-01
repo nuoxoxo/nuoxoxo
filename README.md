@@ -1,12 +1,11 @@
 Quote: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
 
 - [x] sql
-- [ ] login
-  - [ ] login.html
 - [ ] register
   - [ ] register.html
 - [ ] quote
   - [ ] quote.html 
+  - [ ] quoted.html
 - [ ] buy
   - [ ] buy.html
 - [ ] index
