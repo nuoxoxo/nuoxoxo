@@ -15,7 +15,7 @@
   - [ ] quote
   - [ ] buy
   - [x] sell
-  - [ ] history
+  - [x] history
 
 ##
 
