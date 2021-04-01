@@ -4,6 +4,8 @@
 
 ##
 
+#9 Quote: [documents](https://github.com/nuoxoxo/cs50x.me/tree/main/week9/finance)
+
 - [ ] login
   - [ ] login.html
 - [ ] register
