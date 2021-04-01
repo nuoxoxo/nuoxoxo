@@ -1,21 +1,17 @@
+- [ ] login
+- [ ] login.html
+- [ ] register
+- [ ] register.html
 - [ ] quote
-  - [x] register
-  - [x] login
-  - [x] show quote 
-  - [ ] index
-  - [ ] history\
-        `solved:` `exception raised in application: RuntimeError: no such table: history`\
-        `new prob:` `expected to find "112.00" in page, but it wasn't found`\
-  - [ ] buy
-  - [ ] sell
-- [ ] pages
-  - [x] register
-  - [x] login
-  - [x] index
-  - [x] quote
-  - [x] buy
-  - [x] sell
-  - [x] history
+- [ ] quote.html 
+- [ ] buy
+- [ ] buy.html
+- [ ] index
+- [ ] index.html
+- [ ] sell
+- [ ] sell.html
+- [ ] history
+- [ ] history.html
 
 ##
 
