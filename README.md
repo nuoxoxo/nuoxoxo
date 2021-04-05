@@ -1,5 +1,4 @@
-`command not found: jupyter`
-
+`command not found: jupyter`\
 `python3 -m notebook`
 
 <details><summary></summary><a href="https://github.com/nuoxoxo/cs50x.me">🙉</a><details><summary></summary></details></details>
