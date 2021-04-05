@@ -4,5 +4,5 @@
 :-:|:-:
 <img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/spin.gif" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/stairs.png" width="256">
 
-<details><summary></summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&&langs_count=9&layout=compact&text_color=B0FEE1&bg_color=000&hide_title=true"></details>
+<details><summary></summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&hide=html,css&langs_count=9&layout=compact&text_color=B0FEE1&bg_color=000&hide_title=true"></details>
 
