@@ -1,6 +1,7 @@
-<details><summary>drop</summary><a href="https://github.com/nuoxoxo/cs50x.me">🙉</a>
-</details>
+<details><summary>drop</summary><a href="https://github.com/nuoxoxo/cs50x.me">🙉</a></details>
 
 <img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/glow.gif" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/ha.gif" width="256">
 :-:|:-:
 <img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/spin.gif" width="256">|<img src="https://raw.githubusercontent.com/nuoxoxo/noc/master/_img/stairs.png" width="256">
+
+<details><summary></summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&&langs_count=9&hide=css,html&layout=compact&text_color=B0FEE1&bg_color=000&cache_seconds=1800&hide_title=true"></details>
