@@ -2,7 +2,7 @@
   <summary></summary>
   <p>
     <a href="https://github.com/nuoxoxo/cs50x.me">
-      🙉
+      🌳
     </a>
   </p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&langs_count=12&text_color=FFDB00&title_color=FFDB00&bg_color=000">
