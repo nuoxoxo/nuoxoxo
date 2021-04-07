@@ -15,6 +15,6 @@
     </a>
   </p>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&langs_count=32">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&hide=html,css&langs_count=32&layout=compact&text_color=58a6ff&bg_color=000&hide_title=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&hide=jupyter%20notebook,html,css&langs_count=32&layout=compact&text_color=58a6ff&bg_color=000&hide_title=true&hide_border=true">
   </a>
 </details>
