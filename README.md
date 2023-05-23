@@ -1,5 +1,3 @@
-### Interview tasks
+### Interview tasks - React
 
-- React
-
-- [Confirmation component](nuoxoxo.github.io/interview_react_confirmation_component/)
+- [Deployment](nuoxoxo.github.io/interview_react_confirmation_component/) - Confirmation component
