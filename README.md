@@ -1,5 +1,9 @@
+### Hi there 👋 I'm nuo.o <br>👇 This is my motto: 
+# "Go slow, and fix things."
+
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/snake_on_purple_svg.svg)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=32)
 
 # Recent interview assignments
 
