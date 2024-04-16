@@ -21,16 +21,16 @@
 - Blog
   - *[Blog](https://geocities-nine.vercel.app)*
 - Visual representations of Advent of Code outputs 
-  - *[gig](https://nuoxoxo.github.io/gig/)*
+  - *[Gig](https://nuoxoxo.github.io/gig/)*
 - Guess *WeekDay* based on a given date
   - *[Dmd](https://nuoxoxo.github.io/dmd/)*
-- If you like Class Rock and Jazz, here's a memory game inspired by iconic album covers
+- If you like class rock or jazz, here's a memory game inspired by iconic album covers
   - *[Mmg](https://nuoxoxo.github.io/mmg/)*
 - A simple countdown clock
   - *[Epoch](https://nuoxoxo.github.io/epoch)*
-  - Create your own countdown like this
+  - Get your own countdown like this
     - *https://nuoxoxo.github.io/epoch/#2024-12-25*
-- 
-  - *[]()*
-- 
-  - *[]()*
+- Help my niece with her Mandarin skills assessment
+  - *[Words and Expressions]()https://nuoxoxo.github.io/words_and_expressions/*
+- *Ranch* is a naive-looking but crazy sandbox for my colleagues to experiment with
+  - *[Ranch](https://nuoxoxo.github.io/ranch/)*
