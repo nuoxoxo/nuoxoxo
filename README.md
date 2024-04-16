@@ -1,4 +1,4 @@
-![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/mediumseagreen_tomato_reverse_svg.svg)
+![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/mediumseagreen_tomato_svg.svg)
 
 
 ### Interview tasks - React
