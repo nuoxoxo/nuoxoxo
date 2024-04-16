@@ -1,3 +1,5 @@
+![](https://github.com/nuoxoxo/sea/blob/main/.github/assets/github-contribution-grid-snake.svg)
+
 ### Interview tasks - React
 
 - AssemblyLine demo
