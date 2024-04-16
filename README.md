@@ -34,7 +34,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
   - My solutions for Advent of Code challenges spanning 2015 - 2023 🌟🎄
   - `C++` `Python3` `TypeScript` `Go` `C`
 - *[Hanukkah of Data Solutions](https://github.com/nuoxoxo/hanukkah-of-data)*
-  - Solutions for _[Noah's Rug - 5784](https://hanukkah.bluebird.sh/)_ involving data probing and analytics, akin to a detective's investigation.
+  - Writeups / solutions for _[Noah's Rug - 5784](https://hanukkah.bluebird.sh/)_ involving data probing and analytics, akin to a detective's investigation.
   - `Jupyter Notebook` 
 - *[Coding Quest Solutions](https://github.com/nuoxoxo/coding-quest)*
   - Solutions for _[codingquest.io](https://codingquest.io/)_ over the past 3 years, providing insights into my problem-solving approach.
