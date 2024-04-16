@@ -1,4 +1,4 @@
-![](https://github.com/nuoxoxo/sea/blob/main/.github/assets/github-contribution-grid-snake.svg)
+![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/github-contribution-grid-snake.svg)
 
 ### Interview tasks - React
 
