@@ -19,4 +19,18 @@
 # Projects
 
 - Blog
-- *[Blog](geocities-nine.vercel.app)*
+  - *[Blog](https://geocities-nine.vercel.app)*
+- Visual representations of Advent of Code outputs 
+  - *[gig](https://nuoxoxo.github.io/gig/)*
+- Guess *WeekDay* based on a given date
+  - *[Dmd](https://nuoxoxo.github.io/dmd/)*
+- If you like Class Rock and Jazz, here's a memory game inspired by iconic album covers
+  - *[Mmg](https://nuoxoxo.github.io/mmg/)*
+- A simple countdown clock
+  - *[Epoch](https://nuoxoxo.github.io/epoch)*
+  - Create your own countdown like this
+  - *[Epoch/#{date}](https://nuoxoxo.github.io/epoch/#2024-12-25)
+- 
+  - *[]()*
+- 
+  - *[]()*
