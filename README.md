@@ -1,7 +1,7 @@
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/snake_on_purple_svg.svg)
 
 
-### Interview tasks - React
+### Recent interview assignments
 
 - AssemblyLine demo
     - *[Deployment](nuoxoxo.github.io/interview_react_assembly_line)*
