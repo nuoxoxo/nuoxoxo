@@ -29,7 +29,7 @@
 - A simple countdown clock
   - *[Epoch](https://nuoxoxo.github.io/epoch)*
   - Create your own countdown like this
-  - *[Epoch/#{date}](https://nuoxoxo.github.io/epoch/#2024-12-25)*
+    - *https://nuoxoxo.github.io/epoch/#2024-12-25*
 - 
   - *[]()*
 - 
