@@ -1,11 +1,12 @@
 # <p align="center">Go Slow, and Fix Things.</p>
 
-## 🟢 Recent interview assignments
-- *[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)* - Assembly line component demo
+## 🟢 Recent assignments
+Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
+- *[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)* - Assembly line component demo 
 - *[Live search filter](https://nuoxoxo.github.io/interview_react_search_filter)* - A dynamic search filter 
 - *[Confirmation buttons](https://nuoxoxo.github.io/interview_react_confirmation_component)* - Button set featuring notification bar 
 
-## 🟢 Projects
+## 🟢 Get to know me with these deployed sites
 - *[Blog](https://geocities-nine.vercel.app)* - My blog, where i discuss topics close to my heart, like music, sometimes tech, and more
 - *[Gig](https://nuoxoxo.github.io/gig)* - Visual representations of Advent of Code outputs 
 - *[Dmd](https://nuoxoxo.github.io/dmd)* - Guess the *WeekDay* based on a given date
