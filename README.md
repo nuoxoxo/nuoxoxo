@@ -6,11 +6,11 @@
 - *[Confirmation buttons](https://nuoxoxo.github.io/interview_react_confirmation_component)* - Button set featuring notification bar 
 
 ## 🟢 Projects
-- *[Blog](https://geocities-nine.vercel.app)* - My blog, a tech-ish blog
+- *[Blog](https://geocities-nine.vercel.app)* - My blog, where i discuss topics close to my heart, like music, sometimes tech, and more
 - *[Gig](https://nuoxoxo.github.io/gig)* - Visual representations of Advent of Code outputs 
-- *[Dmd](https://nuoxoxo.github.io/dmd)* - Guess *WeekDay* based on a given date
-- *[Mmg](https://nuoxoxo.github.io/mmg)* - If you like class rock or jazz, here's a memory game inspired by iconic album covers
-- *[Epoch](https://nuoxoxo.github.io/epoch)* - A simple countdown clock
+- *[Dmd](https://nuoxoxo.github.io/dmd)* - Guess the *WeekDay* based on a given date
+- *[Mmg](https://nuoxoxo.github.io/mmg)* - A Memory game inspired by iconic album covers (hope you like classic rock and jazz)
+- *[Epoch](https://nuoxoxo.github.io/epoch)* - A simple _`Age`_ clock
   - Get your own countdown like this \
 *https://nuoxoxo.github.io/epoch/#2024-12-25*
 - *[Words and Expressions](https://nuoxoxo.github.io/words_and_expressions)* - Help my niece with her Mandarin skills assessment
