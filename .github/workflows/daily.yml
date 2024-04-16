@@ -1,0 +1,50 @@
+# This is a basic workflow to help you get started with Actions
+
+name: daily
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  #push:
+    #branches: [ "main" ]
+  #pull_request:
+    #branches: [ "main" ]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    - cron: "21 21 * * *"
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: CHECKOUT
+        uses: actions/checkout@v3
+      # Runs a single command using the runners shell
+      - name: SNAKE
+        # id: snake_svg
+        # uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        # uses: aelassas/snk/svg-only@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./.github/assets/snake_svg.svg?color_snake=orange
+            ./.github/assets/github-contribution-grid-snake.svg?palette=github-dark
+            ./.github/assets/snake_green.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#c5d3ff
+            ./.github/assets/snake_on_purple_svg.svg?color_snake=#8939f9&color_dots=#eedcf7,#f0e1fa,#cbbcfa,#ba92ff,#926ef6
+            ./.github/assets/snake_on_pink_svg.svg?color_empty=#1a0108&color_snake=#99cccc&color_dots=#fffcef,#ff8aaa,#ec4971,#ce4867,#952f31
+            ./.github/assets/mediumseagreen_tomato_svg.svg?color_empty=#99cccc&color_snake=#99cccc&color_dots=#eceaed,#ebd5dc,#f3b6be,#ec4c4b,#d4353b
+            ./.github/assets/mediumseagreen_tomato_reverse_svg.svg?color_empty=#99cccc&color_snake=#99cccc&color_dots=#d4353b,#ec4c4b,#f3b6be,#ebd5dc,#eceaed
+      - name: PUSH
+        uses: EndBug/add-and-commit@v9
+        with:
+          # branch: main
+          message: "daily"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
