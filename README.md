@@ -10,15 +10,21 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - *[Blog](https://geocities-nine.vercel.app)*
   - The place where I discuss topics close to heart, like music, sometimes tech, and more
   - `Next.js` `Dynamic Routes` `React Native` `MDX Renderer` `Sass` 
-- *[Gig](https://nuoxoxo.github.io/gig)* - Visual representations of Advent of Code outputs
+- *[Gig](https://nuoxoxo.github.io/gig)*
+  - Visual representations of Advent of Code outputs
   - `React Native` `React Router` `Sass` `Dynamic programming` & various algorithms
-- *[Dmd](https://nuoxoxo.github.io/dmd)* - Guess the *WeekDay* based on a given date
+- *[Dmd](https://nuoxoxo.github.io/dmd)*
+  - Guess the *WeekDay* based on a given date
   - `React Native` `React Router` using John Conway's algorithm
-- *[Mmg](https://nuoxoxo.github.io/mmg)* - A Memory game inspired by iconic album covers (hope you like classic rock and jazz)
-- *[Epoch](https://nuoxoxo.github.io/epoch)* - A simple _`Age`_ clock
+- *[Mmg](https://nuoxoxo.github.io/mmg)*
+  - A Memory game inspired by iconic album covers (hope you like classic rock and jazz)
+- *[Epoch](https://nuoxoxo.github.io/epoch)*
+  - A simple _`Age`_ clock
   - Get your own countdown like this : *https://nuoxoxo.github.io/epoch/#2024-12-25*
-- *[Words and Expressions](https://nuoxoxo.github.io/words_and_expressions)* - Help my niece with her Mandarin skills assessment
-- *[Ranch](https://nuoxoxo.github.io/ranch)* - *Ranch* is a naive-looking but crazy sandbox for my colleagues to experiment with 
+- *[Words and Expressions](https://nuoxoxo.github.io/words_and_expressions)*
+  - Help my niece with her Mandarin skills assessment
+- *[Ranch](https://nuoxoxo.github.io/ranch)*
+  - *Ranch* is a naive-looking but crazy sandbox for my colleagues to experiment with 
 
 ## 🧩 &nbsp; Long-term projects and codebases
 - *[LeetCode Solutions](https://github.com/nuoxoxo/leetcode)*
