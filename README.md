@@ -42,7 +42,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[April Fools 2O23](https://github.com/nuoxoxo/april_event_2O23)***
   - Solutions for April Fools Event @ 42 worldwide, Collaborating with some of my favorite colleagues made it an unforgettable time.
   - `Perl` `PHP` `C++` `TypeScript` 
-- Other ***[Repositories](https://github.com/nuoxoxo?tab=repositories)***
+- Other ***[repositories](https://github.com/nuoxoxo?tab=repositories)***
   - See more projects using `Astro` `Deno` `Vanilla JavaScript`  etc
 
 ---
