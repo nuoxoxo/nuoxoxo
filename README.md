@@ -2,7 +2,7 @@
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
-- ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line component demo 
+- ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
 - ***[Live search filter](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
 - ***[Confirmation buttons](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
 
