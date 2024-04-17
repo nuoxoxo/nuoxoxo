@@ -17,7 +17,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
   - Guess the *WeekDay* based on a given date
   - `React Native` `React Router` using John Conway's algorithm
 - ***[Mmg](https://nuoxoxo.github.io/mmg)***
-  - A Memory game inspired by iconic album covers (hope you like classic rock and jazz)
+  - A Memory game inspired by iconic album covers (for the love of classic rock and jazz)
 - ***[Epoch](https://nuoxoxo.github.io/epoch)***
   - A simple _`Age`_ clock
   - Get your own countdown with a `#` : *https://nuoxoxo.github.io/epoch/#2024-12-25*
