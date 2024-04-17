@@ -6,7 +6,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Live search filter](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
 - ***[Confirmation buttons](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
 
-## 🎨 &nbsp; Get to know me with these deployed sites
+## 🎨 &nbsp; Get to know me with these sites
 - ***[Blog](https://geocities-nine.vercel.app)***
   - The place where I discuss topics close to heart, like music, sometimes tech, and more
   - `Next.js` `Dynamic Routes` `React Native` `MDX Renderer` `Sass` 
