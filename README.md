@@ -2,7 +2,7 @@
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
-- ___Not much going on recently___
+_Not much going on recently_
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
