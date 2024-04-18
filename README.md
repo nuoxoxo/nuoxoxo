@@ -15,7 +15,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
   - `React Native` `React Router` `Sass` `Dynamic programming` & various algorithms
 - ***[Dmd](https://nuoxoxo.github.io/dmd)***
   - Guess the *WeekDay* based on a given date
-  - `React Native` `React Router` using John Conway's algorithm
+  - `React Native` `React Router` using John Conway's doomsday algorithm
 - ***[Mmg](https://nuoxoxo.github.io/mmg)***
   - A Memory game inspired by iconic album covers (for the love of classic rock and jazz)
 - ***[Epoch](https://nuoxoxo.github.io/epoch)***
