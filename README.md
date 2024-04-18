@@ -1,5 +1,9 @@
 # <p align="center">Go Slow, and Fix Things.</p>
 
+## 🚴‍♂️ &nbsp; Ongoing Projects
+
+- ___Not much going on recently___
+
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
 - ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
