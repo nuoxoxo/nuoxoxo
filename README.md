@@ -2,7 +2,7 @@
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
-_Not much going on recently_
+The [Cryptopals](https://cryptopals.com/) Crypto Challenges - [Repo](https://github.com/nuoxoxo/cryptopals) 
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
