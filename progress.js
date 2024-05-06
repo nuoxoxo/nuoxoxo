@@ -13,11 +13,13 @@ const makeBar = () => {
 const bar = makeBar()
 
 const README = `\
-# "Go slow, and fix things."
-
-<!-- Year progress bar -->
-
 # <p align="center">Go Slow, and Fix Things.</p>
+
+## ⌛ Year progress bar 
+
+<p>
+    2024 ${bar} ${(proportion * 100).toFixed(2)} %
+</p>
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
@@ -73,12 +75,6 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=32)
-
----
-
-<p>
-    2024 ${bar} ${(proportion * 100).toFixed(2)} %
-</p>
 \
 `
 
