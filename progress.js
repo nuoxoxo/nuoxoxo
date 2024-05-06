@@ -15,11 +15,9 @@ const bar = makeBar()
 const README = `\
 # <p align="center">Go Slow, and Fix Things.</p>
 
-## ⌛ Year progress bar 
+## ⌛ &nbsp; Year progress bar 
 
-<p>
-    2O24 -> ${bar} ${(proportion * 100).toFixed(2)} %
-</p>
+- 2O24 -> ${bar} ${(proportion * 100).toFixed(2)} %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
