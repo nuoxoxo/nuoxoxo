@@ -7,7 +7,7 @@ const makeBar = () => {
     const N = 32
     const idx = parseInt(proportion * N)
     const bar = '█'.repeat(idx) + '▁'.repeat(N - idx)
-    return `{ ${bar} }`
+    return `:: ${bar} ::`
 }
 
 const bar = makeBar()
@@ -17,7 +17,7 @@ const README = `\
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: ${bar} ${(proportion * 100).toFixed(2)} %
+- 2O24 ${bar} ${(proportion * 100).toFixed(2)} %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
