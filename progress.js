@@ -4,7 +4,7 @@ const yearE = new Date(`${year2024}-12-31T23:59:59+00:00`).getTime()
 const proportion = (Date.now() - yearS) / (yearE - yearS)
 
 const makeBar = () => {
-    const N = 42
+    const N = 32
     const idx = parseInt(proportion * N)
     const bar = '█'.repeat(idx) + '▁'.repeat(N - idx)
     return `{ ${bar} }`
@@ -17,7 +17,7 @@ const README = `\
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 -> ${bar} ${(proportion * 100).toFixed(2)} %
+- 2O24 :: ${bar} ${(proportion * 100).toFixed(2)} %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
