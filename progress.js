@@ -18,7 +18,7 @@ const README = `\
 ## ⌛ Year progress bar 
 
 <p>
-    2024 ${bar} ${(proportion * 100).toFixed(2)} %
+    2O24 -> ${bar} ${(proportion * 100).toFixed(2)} %
 </p>
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
