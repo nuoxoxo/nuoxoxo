@@ -27,6 +27,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: CHECKOUT
         uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '20.0'
+      - name: Update README.md
+        run: node progress.js > README.md
       # Runs a single command using the runners shell
       - name: SNAKE
         # id: snake_svg
