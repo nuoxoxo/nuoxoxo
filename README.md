@@ -37,7 +37,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 
 ## 🧩 &nbsp; Long-term projects and codebases
 - ***[LeetCode](https://github.com/nuoxoxo/leetcode)***
-  - LeetCode isn't a goal; it's a stepping stone toward achieving your goals. I keep these for the pure sake of keeping, documenting my journey through algorithmic challenges and continuous improvement. Currently the repo amounts to 2500+ code snippets covering over 800 problems.
+  - LeetCode is not the goal; it is a stepping stone toward achieving your goals. I keep these for the pure sake of keeping, documenting my journey through algorithmic challenges and continuous improvement. Currently the repo amounts to 2500+ code snippets covering over 800 problems.
   - `C++` `Go` `Python3` `TS/JS` `C`
 - ***[Advent of Code](https://github.com/nuoxoxo/advent-of-code)***
   - My solutions for Advent of Code challenges spanning 2015 - 2023 🌟🎄
