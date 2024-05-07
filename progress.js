@@ -72,7 +72,6 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/github-contribution-grid-snake.svg)
 
-<img style='display: block; margin: auto;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=32' align='center'>
 \
 `
 
