@@ -6,7 +6,7 @@ const proportion = (Date.now() - yearS) / (yearE - yearS)
 const makeBar = () => {
     const N = 32
     const idx = parseInt(proportion * N)
-    const bar = '@'.repeat(idx) + '-'.repeat(N - idx)
+    const bar = '@'.repeat(idx) + '_'.repeat(N - idx)
     return `:: ${bar} ::`
 }
 
