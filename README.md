@@ -2,7 +2,7 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ :: 34.80 %
+- 2O24 :: ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ :: 34.81 %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
@@ -11,7 +11,7 @@
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
-- ***[AssemblyLine](https://nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
+- ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
 - ***[Live search](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
 - ***[Confirmation](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
 
