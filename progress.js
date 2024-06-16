@@ -3,12 +3,15 @@ const yearS = new Date(`${year2024}-01-01T00:00:00+00:00`).getTime()
 const yearE = new Date(`${year2024}-12-31T23:59:59+00:00`).getTime()
 const proportion = (Date.now() - yearS) / (yearE - yearS)
 
+
 const makeBar = () => {
+
     const N = 32
     const idx = parseInt(proportion * N)
     const bar = '@'.repeat(idx) + '_'.repeat(N - idx)
     return `:: ${bar} ::`
 }
+
 
 const bar = makeBar()
 
