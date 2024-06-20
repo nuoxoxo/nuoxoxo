@@ -2,7 +2,7 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@__________________ :: 46.69 %
+- 2O24 :: @@@@@@@@@@@@@@@_________________ :: 46.95 %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
@@ -57,5 +57,5 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/github-contribution-grid-snake.svg)
 
-<img style='display: block; margin-left: auto; margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=32'> 
+<img style='display: block; margin-left: auto; margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=12'> 
 
