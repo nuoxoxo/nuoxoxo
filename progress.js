@@ -8,7 +8,7 @@ const makeBar = () => {
 
     const N = 32
     const idx = parseInt(proportion * N)
-    const bar = '@'.repeat(idx) + 'ø'.repeat(N - idx)
+    const bar = '@'.repeat(idx) + ' ˙'.repeat(N - idx)
     return `:: ${bar} ::`
 }
 
