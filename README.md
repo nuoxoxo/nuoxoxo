@@ -2,12 +2,12 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 58.71 %
+- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 58.73 %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
-- ***[pythonchallenge](https://www.pythonchallenge.com/)*** - Fun and historically important problem-set
-  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on: 19/indian_
+- The [Cryptopals](https://cryptopals.com/) Crypto Challenges
+  - My [solutions](https://github.com/nuoxoxo/cryptopals) 
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
@@ -42,8 +42,6 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Advent of Code](https://github.com/nuoxoxo/advent-of-code)***
   - My solutions for Advent of Code challenges spanning 2015 - 2023 🌟🎄
   - `C++` `Python3` `TypeScript` `Go` `C`
-- The [Cryptopals](https://cryptopals.com/) Crypto Challenges
-  - My [solutions](https://github.com/nuoxoxo/cryptopals) - all the years incl. 2024
 - ***[Hanukkah of Data](https://github.com/nuoxoxo/hanukkah-of-data)***
   - Writeups / solutions for _[Noah's Rug - 5784](https://hanukkah.bluebird.sh/)_ involving data probing and analytics, akin to a detective's investigation.
   - `Jupyter Notebook` 
