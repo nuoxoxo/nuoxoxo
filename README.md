@@ -2,12 +2,11 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 58.86 %
+- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 58.87 %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
-***[pythonchallenge](https://www.pythonchallenge.com/)*** - Fun and historically important problem-set
-  - The Python Challenge is an old internet puzzle intended to be solved in Python
+***[pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
   - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on level 20/33_
 
 ## 🎯 &nbsp; Recent assignments
