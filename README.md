@@ -2,12 +2,12 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 58.99 %
+- 2O24 :: @@@@@@@@@@@@@@@@@@ • • • • • • • • • • • • • • :: 59.22 %
 
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
 ***[pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
-  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on level 20/33_
+  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on level 19/33_
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
