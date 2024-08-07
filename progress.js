@@ -60,7 +60,8 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Advent of Code](https://github.com/nuoxoxo/advent-of-code)***
   - My solutions for Advent of Code challenges spanning 2015 - 2023 🌟🎄
   - \`C++\` \`Python3\` \`TypeScript\` \`Go\` \`C\`
-- The ***[Cryptopals](https://cryptopals.com/)*** Crypto Challenges
+- ***[Cryptopals](https://cryptopals.com/)*** 
+  - A Set of Crypto Challenges
   - My [solutions](https://github.com/nuoxoxo/cryptopals) 
 - ***[Hanukkah of Data](https://github.com/nuoxoxo/hanukkah-of-data)***
   - Writeups / solutions for _[Noah's Rug - 5784](https://hanukkah.bluebird.sh/)_ involving data probing and analytics, akin to a detective's investigation.
