@@ -7,7 +7,8 @@
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
 ***[pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
-  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on level 19/33_
+  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Currently on level 31/33_
+    - _(looking for a correct way to write that gif/png data so that somparison is possible with the source gif)_
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
