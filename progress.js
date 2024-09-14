@@ -25,7 +25,7 @@ const README = `\
 ## 🚴‍♂️ &nbsp; Ongoing Projects
 
 ***[pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
-  - My solutions in [Go](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update Sep 14: completed all 33 levels_
+  - My [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update Sep 14: completed all 33 levels in Go_
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
