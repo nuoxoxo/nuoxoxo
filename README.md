@@ -14,12 +14,6 @@
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) 
     - _Update (Sep 14): Done, completed all 33 levels_
 
-## 🎯 &nbsp; Recent assignments
-Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
-- ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
-- ***[Live search](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
-- ***[Confirmation](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
-
 ## 🎨 &nbsp; Get to know me with these sites
 - ***[Blog](https://geocities-nine.vercel.app)***
   - The place where I discuss topics close to heart, like music, sometimes tech, and more
@@ -39,6 +33,12 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
   - Help my niece with her Mandarin skills assessment
 - ***[Ranch](https://nuoxoxo.github.io/ranch)***
   - *Ranch* is a naive-looking but crazy CSS sandbox experiment with 
+
+## 🎯 &nbsp; Recent assignments
+Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
+- ***[AssemblyLine](nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
+- ***[Live search](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
+- ***[Confirmation](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
 
 ## 🧩 &nbsp; Long-term projects and codebases
 - ***[LeetCode](https://github.com/nuoxoxo/leetcode)***
