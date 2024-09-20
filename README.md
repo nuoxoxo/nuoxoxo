@@ -8,6 +8,7 @@
 
 ***[pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
   - My [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update (Sep 14): Done, completed all 33 levels_
+
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
   - My [solutions](https://github.com/nuoxoxo/aquaq) in Go - _Update (Sep 20): currently on problem 5 "Snake Eyes"_
 
