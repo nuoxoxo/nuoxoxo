@@ -22,7 +22,7 @@ const README = `\
 
 - 2O24 ${bar} ${(proportion * 100).toFixed(2)} %
 
-## 🚴‍♂️ &nbsp; Ongoing Projects
+## 🚴‍♂️ &nbsp; Currently working on:
 
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
   - My [solutions](https://github.com/nuoxoxo/aquaq) in Go 
