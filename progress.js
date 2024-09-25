@@ -26,7 +26,7 @@ const README = `\
 
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
   - [Solutions](https://github.com/nuoxoxo/aquaq) in Go 
-    - _Update (Sep 20): finished **10/40**_
+    - _Update (Sep 25): finished **17/40**_
 
 ***[Pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) 
