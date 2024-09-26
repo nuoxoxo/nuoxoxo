@@ -7,7 +7,7 @@
 ## 🚴‍♂️ &nbsp; Currently working on:
 
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
-  - [Solutions](https://github.com/nuoxoxo/aquaq) in Go 
+  - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go 
     - _Update (Sep 25): finished **17/40**_
 
 ***[Pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
