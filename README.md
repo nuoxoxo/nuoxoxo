@@ -2,13 +2,13 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@@@@@@@@@@@ • • • • • • • • :: 75.87 %
+- 2O24 :: @@@@@@@@@@@@@@@@@@@@@@@@ • • • • • • • • :: 75.88 %
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
   - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go 
-    - _Update (Oct 3): finished **29/40**_
+    - _Update (Oct 4): finished **30/40**_
 
 ***[Pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) 
