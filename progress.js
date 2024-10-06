@@ -30,7 +30,7 @@ const README = `\
 
 ***[Pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) 
-    - _Update (Sep 14): Done, completed all 33 levels_
+    - _Update: Completed all 33 levels_
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
