@@ -54,7 +54,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
   - A simple _\`Age\`_ clock
   - Get your own countdown with a \`#\` : *https://nuoxoxo.github.io/epoch/#2024-12-25*
 - ***[Words and Expressions](https://nuoxoxo.github.io/words_and_expressions)***
-  - Help my niece with her Mandarin skills assessment
+  - Helping my niece learn Chinese 
 - ***[Ranch](https://nuoxoxo.github.io/ranch)***
   - *Ranch* is a naive-looking but crazy CSS sandbox experiment with 
 
