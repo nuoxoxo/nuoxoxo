@@ -2,7 +2,7 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O24 :: @@@@@@@@@@@@@@@@@@@@@@@@@@ • • • • • • :: 84.30 %
+- 2O24 :: @@@@@@@@@@@@@@@@@@@@@@@@@@ • • • • • • :: 84.34 %
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
@@ -30,7 +30,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Dmd](https://nuoxoxo.github.io/dmd)***
   - Guess the *WeekDay* based on a given date
   - `React Native` `React Router` using John Conway's doomsday algorithm
-- ***[Mmg](https://nuoxoxo.github.io/mmg)*** (deprecated)
+- ***[Mmg](https://nuoxoxo.github.io/mmg)***
   - A Memory game inspired by iconic album covers (for the love of classic rock and jazz)
 - ***[Epoch](https://nuoxoxo.github.io/epoch)***
   - A simple _`Age`_ clock
