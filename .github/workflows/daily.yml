@@ -31,7 +31,7 @@ jobs:
         with:
           node-version: '20.0'
       - name: Update README.md
-        run: node progress.js > README.md
+        run: node go.js > README.md
       # Runs a single command using the runners shell
       - name: SNAKE
         # id: snake_svg
