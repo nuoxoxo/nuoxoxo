@@ -24,6 +24,9 @@ const README = `\
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
+***Snow Crash***
+  - [Solutions](https://github.com/nuoxoxo/cfo) - _in progress_
+
 ***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
   - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _Update (Oct 19): finished **35/40**_
 
