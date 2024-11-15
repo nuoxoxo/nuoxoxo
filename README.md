@@ -9,10 +9,10 @@
 ***Snow Crash***
   - [Solutions](https://github.com/nuoxoxo/cfo) - _in progress_
 
-***[AquaQ Challenge Hub](https://challenges.aquaq.co.uk/)*** - AquaQ is a fun recreation of some of the AquaQ Friday Challenges
+***AquaQ Challenge Hub*** - [AquaQ](https://challenges.aquaq.co.uk/) is a fun recreation of some of the AquaQ Friday Challenges
   - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _Update (Oct 19): finished **35/40**_
 
-***[Pythonchallenge](https://www.pythonchallenge.com/)*** - The Python Challenge is an old internet puzzle intended to be solved in Python
+***Pythonchallenge*** - The [Python Challenge](https://www.pythonchallenge.com/) is an old internet puzzle intended to be solved in Python
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update: Completed all 33 levels_
 
 ## 🎯 &nbsp; Recent assignments
