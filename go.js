@@ -84,7 +84,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 
 ![](https://github.com/nuoxoxo/nuoxoxo/blob/main/.github/assets/github-contribution-grid-snake.svg)
 
-<img style='display: block; margin-left: auto; margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html&langs_count=12'> \
+<img style='display: block; margin-left: auto; margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff,html'> \
 <!-- <img src='https://deno.com/images/artwork/HypnoDeno.gif?__frsh_c=dad2' width='50%'/> --> \
 
 \
