@@ -1,6 +1,6 @@
-const year2024 = new Date().getFullYear()
-const yearS = new Date(`${year2024}-01-01T00:00:00+00:00`).getTime()
-const yearE = new Date(`${year2024}-12-31T23:59:59+00:00`).getTime()
+const y25 = new Date().getFullYear()
+const yearS = new Date(`${y25}-01-01T00:00:00+00:00`).getTime()
+const yearE = new Date(`${y25}-12-31T23:59:59+00:00`).getTime()
 const proportion = (Date.now() - yearS) / (yearE - yearS)
 
 
