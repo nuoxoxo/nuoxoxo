@@ -1,8 +1,10 @@
 # <p align="center">Go Slow, and Fix Things.</p>
 
+
 ## ⌛ &nbsp; Year progress bar 
 
 - ２Ｏ２５ ::  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • :: 0.99 %
+
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
@@ -18,15 +20,19 @@
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update: Completed all 33 levels_
   - [Python Challenge](https://www.pythonchallenge.com/) - an old and important puzzle set
 
+
 ## 🎯 &nbsp; Recent assignments
+
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
 - ***[AssemblyLine](https://nuoxoxo.github.io/interview_react_assembly_line)*** - Assembly line demo 
 - ***[Live search](https://nuoxoxo.github.io/interview_react_search_filter)*** - A dynamic search filter 
 - ***[Confirmation](https://nuoxoxo.github.io/interview_react_confirmation_component)*** - Button set featuring notification bars _(notistack/snackbar)_
 
+
 ## 🎨 &nbsp; Get to know me with these sites
+
 - ***[Blog](https://geocities-nine.vercel.app)***
-  - The place where I discuss topics close to heart, like music, sometimes tech, and more
+  - The place where I discuss _stuff_
   - `Next.js` `Dynamic Routes` `React Native` `MDX Renderer` `Sass` 
 - ***[Gig](https://nuoxoxo.github.io/gig)***
   - Visual representations of Advent of Code outputs
@@ -42,7 +48,9 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Ranch](https://nuoxoxo.github.io/ranch)***
   - Simple CSS playground for experiments  
 
+
 ## 🧩 &nbsp; Long-term projects and codebases
+
 - ***[LeetCode](https://github.com/nuoxoxo/leetcode)***
   - LeetCode isn't a goal; it's a stepping stone toward achieving your goals. I keep these for the pure sake of keeping, documenting my journey through algorithmic challenges and continuous improvement. Currently the repo amounts to 2500+ code snippets covering over 800 problems.
   - `C++` `Go` `Python3` `TS/JS` `C`
