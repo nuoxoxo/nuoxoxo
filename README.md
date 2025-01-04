@@ -34,15 +34,13 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 - ***[Dmd](https://nuoxoxo.github.io/dmd)***
   - Guess the *WeekDay* based on a given date
   - `React Native` `React Router` using John Conway's doomsday algorithm
-- ***[Mmg](https://nuoxoxo.github.io/mmg)***
-  - A Memory game inspired by iconic album covers (for the love of classic rock and jazz)
 - ***[Epoch](https://nuoxoxo.github.io/epoch)***
   - A simple _`Age`_ clock
-  - Get your own countdown with a `#` : *https://nuoxoxo.github.io/epoch/#2024-12-25*
+  - Get your own countdown with a `#` : *https://nuoxoxo.github.io/epoch/#2025-12-25*
 - ***[Words and Expressions](https://nuoxoxo.github.io/words_and_expressions)***
-  - Helping my niece learn Chinese 
+  - Help a friend learn Chinese 
 - ***[Ranch](https://nuoxoxo.github.io/ranch)***
-  - *Ranch* is a naive-looking but crazy CSS sandbox experiment with 
+  - Simple CSS playground for experiments  
 
 ## 🧩 &nbsp; Long-term projects and codebases
 - ***[LeetCode](https://github.com/nuoxoxo/leetcode)***
