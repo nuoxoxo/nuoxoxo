@@ -7,16 +7,16 @@
 ## 🚴‍♂️ &nbsp; Currently working on:
 
 ***Snow Crash***
-  - [Solutions](https://github.com/nuoxoxo/snowcrash_speedrun) - _due_
+  - [Speedrun ver.](https://github.com/nuoxoxo/snowcrash_speedrun) - _due_
   - [Solutions](https://github.com/nuoxoxo/snowcrash) - _completed_
 
 ***AquaQ Challenge Hub*** 
   - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _Update (Oct 19): finished **35/40**_
-  - [AquaQ](https://challenges.aquaq.co.uk/) is a fun recreation of some of the AquaQ Friday Challenges
+  - [AquaQ](https://challenges.aquaq.co.uk/) - a recreation of some of the AquaQ Friday Challenges
 
 ***Pythonchallenge*** 
   - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update: Completed all 33 levels_
-  - The [Python Challenge](https://www.pythonchallenge.com/) is an old internet puzzle intended to be solved in Python
+  - [Python Challenge](https://www.pythonchallenge.com/) - an old and important puzzle set
 
 ## 🎯 &nbsp; Recent assignments
 Here's a showcase of recent projects that I've developed to tackle various tech interview tasks
