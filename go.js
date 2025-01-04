@@ -20,7 +20,7 @@ const README = `\
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O25 ${bar} ${(proportion * 100).toFixed(2)} %
+- ２Ｏ２５ ${bar} ${(proportion * 100).toFixed(2)} %
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
