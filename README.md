@@ -2,12 +2,12 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- 2O25 ::  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • :: 0.99 %
+- ２Ｏ２５ ::  • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • :: 0.99 %
 
 ## 🚴‍♂️ &nbsp; Currently working on:
 
 ***Snow Crash***
-  - [the speedrun ver.](https://github.com/nuoxoxo/snowcrash_speedrun) - _due_
+  - [a speedrun ver.](https://github.com/nuoxoxo/snowcrash_speedrun) - _due_
   - [solutions](https://github.com/nuoxoxo/snowcrash) - _completed_
 
 ***AquaQ Challenge Hub*** 
