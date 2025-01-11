@@ -23,7 +23,7 @@ const README = `\
 
 - ２Ｏ２５ ${bar} ${(proportion * 100).toFixed(2)} %
 
-<img style='display: block; margin-left: auto; margin-right: margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff&langs_count=12'> \
+<img style='display: block; margin-left: auto; margin-right: margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff&langs_count=10'> \
 
 
 ## 🚴‍♂️ &nbsp; Currently working on:
