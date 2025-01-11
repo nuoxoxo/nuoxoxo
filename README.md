@@ -10,8 +10,8 @@
 ## 🚴‍♂️ &nbsp; Currently working on:
 
 ***Snow Crash***
-  - [a speedrun ver.](https://github.com/nuoxoxo/snowcrash_speedrun) - _due_
-  - [solutions](https://github.com/nuoxoxo/snowcrash) - _completed_
+  - [a speedrun ver.](https://github.com/nuoxoxo/snowcrash_speedrun) - _fi._
+  - [solutions](https://github.com/nuoxoxo/snowcrash) - _submitted_
 
 ***AquaQ Challenge Hub*** 
   - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _Update (Oct 19): finished **35/40**_
