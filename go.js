@@ -31,7 +31,7 @@ const README = `\
 - ***Snow Crash***
   - [solutions](https://github.com/nuoxoxo/snowcrash) 
   - [speedrun](https://github.com/nuoxoxo/snowcrash_speedrun) 
-- ***AquaQ Challenge Hub*** 
+- ***AquaQ*** 
   - [solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) - in golang - _complete **40/40**_
   - [aquaq](https://challenges.aquaq.co.uk/) site
 - ***Codyssi - 2025 Contest Round*** 
