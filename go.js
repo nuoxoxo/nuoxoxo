@@ -32,13 +32,13 @@ const README = `\
   - [solutions](https://github.com/nuoxoxo/snowcrash) 
   - [speedrun](https://github.com/nuoxoxo/snowcrash_speedrun) 
 - ***AquaQ Challenge Hub*** 
-  - [solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) - in golang - _finished **40/40**_
+  - [solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) - in golang - _complete **40/40**_
   - [aquaq](https://challenges.aquaq.co.uk/) site
 - ***Codyssi - 2025 Contest Round*** 
-  - [solutions](https://github.com/nuoxoxo/codyssi) - _incomplete **39/40**_
+  - [solutions](https://github.com/nuoxoxo/codyssi) - _incomplete **39/41**_
   - [codyssi](https://www.codyssi.com/challenge_set_2)
 - ***Pythonchallenge*** 
-  - [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _completed all 33 levels_
+  - [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _all 33 done_
   - [site](https://www.pythonchallenge.com/) 
 
 
