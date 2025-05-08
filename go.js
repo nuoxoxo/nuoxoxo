@@ -35,7 +35,7 @@ const README = `\
   - [solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) - in golang - _complete **40/40**_
   - [aquaq](https://challenges.aquaq.co.uk/) site
 - ***Codyssi - 2025 Contest Round*** 
-  - [solutions](https://github.com/nuoxoxo/codyssi) - _incomplete **39/41**_
+  - [solutions](https://github.com/nuoxoxo/codyssi) - _**39/41**_
   - [codyssi](https://www.codyssi.com/challenge_set_2)
 - ***Pythonchallenge*** 
   - [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _all 33 done_
