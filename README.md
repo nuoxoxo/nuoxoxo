@@ -3,7 +3,7 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- ２Ｏ２５ :: @@@@@@@@@@@ • • • • • • • • • • • • • • • • • • • • • :: 34.85 %
+- ２Ｏ２５ :: @@@@@@@@@@@ • • • • • • • • • • • • • • • • • • • • • :: 34.89 %
 
 <img style='display: block; margin-left: auto; margin-right: margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff&langs_count=10'> 
 
@@ -14,12 +14,16 @@
   - [solutions](https://github.com/nuoxoxo/snowcrash) - _submitted_
 
 ***AquaQ Challenge Hub*** 
-  - [Solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _Update (Oct 19): finished **35/40**_
-  - [AquaQ](https://challenges.aquaq.co.uk/) - a recreation of some of the AquaQ Friday Challenges
+  - [solutions](https://github.com/nuoxoxo/aquaq_challenge_hub) in Go - _finished **40/40**_
+  - [site](https://challenges.aquaq.co.uk/)
+
+***AquaQ Challenge Hub*** 
+  - [solutions](https://github.com/nuoxoxo/codyssi) in Go - _incomplete **39/40**_
+  - [site](https://www.codyssi.com/challenge_set_2) - Codyssi's 2025 Contest Round
 
 ***Pythonchallenge*** 
-  - [Solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _Update: Completed all 33 levels_
-  - [Python Challenge](https://www.pythonchallenge.com/) - an old and important puzzle set
+  - [solutions](https://github.com/nuoxoxo/pythonlibrarychallenge-in-go) - _completed all 33 levels_
+  - [site](https://www.pythonchallenge.com/) 
 
 
 ## 🎯 &nbsp; Recent assignments
