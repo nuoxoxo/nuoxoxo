@@ -34,7 +34,7 @@ Here's a showcase of recent projects that I've developed to tackle various tech 
 ## 🎨 &nbsp; Get to know me with these sites
 
 - ***[Blog](https://geocities-nine.vercel.app)***
-  - The place where I discuss _stuff_
+  - where I say stuff
   - `Next.js` `Dynamic Routes` `React Native` `MDX Renderer` `Sass` 
 - ***[Gig](https://nuoxoxo.github.io/gig)***
   - Visual representations of Advent of Code outputs
