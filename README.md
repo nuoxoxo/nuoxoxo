@@ -3,7 +3,7 @@
 
 ## ⌛ &nbsp; Year progress bar 
 
-- ２Ｏ２５ :: @@@@@@@@@@@@@@@@@@@@@@@ • • • • • • • • • :: 73.07 %
+- ２Ｏ２５ :: @@@@@@@@@@@@@@@@@@@@@@@ • • • • • • • • • :: 73.11 %
 
 <img style='display: block; margin-left: auto; margin-right: margin-right: auto; width: 50%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nuoxoxo&layout=compact&hide=roff&langs_count=10'> 
 
